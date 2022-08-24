@@ -1,0 +1,12 @@
+body {
+    background: #F0DB4F;
+}
+
+p {
+   font-size: 4rem;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+   color:#323330;
+   display: flex;
+   justify-content: center;
+}
